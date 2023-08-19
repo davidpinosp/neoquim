@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.1eb2d71f.css",
-    "main.js": "/static/js/main.c53234c3.js",
-    "static/media/Carousel3.jpg": "/static/media/Carousel3.af1e6a941c0a8bd3e71c.jpg",
-    "static/media/Carousel2.jpg": "/static/media/Carousel2.4f7c6a59663b2ebd473d.jpg",
-    "static/media/Carousel1.jpg": "/static/media/Carousel1.801ec1f2c91c2eff9d54.jpg",
-    "static/media/Agricola.pdf": "/static/media/Agricola.9af65391ee00c14aff07.pdf",
-    "static/media/products.jpg": "/static/media/products.40d5e9edfe3dbaaaa170.jpg",
-    "static/media/InsutrialHogar.pdf": "/static/media/InsutrialHogar.6069cb5a4b2fbff91938.pdf",
-    "static/media/Carousel3movil.jpg": "/static/media/Carousel3movil.419c2ae011009e4677ba.jpg",
-    "static/media/Carousel1movil.jpg": "/static/media/Carousel1movil.d0a7c96d9abedf56fd78.jpg",
-    "static/media/Carousel2movil.jpg": "/static/media/Carousel2movil.4ba1188b852bc8352e4c.jpg",
-    "static/media/Veterinaria.pdf": "/static/media/Veterinaria.8d25ba8d660e8b52409a.pdf",
-    "static/media/map.jpg": "/static/media/map.53e85aac9bafcfd061ee.jpg",
-    "static/media/forest.jpg": "/static/media/forest.225cf908bccbe769c3fa.jpg",
-    "static/media/coto.jpg": "/static/media/coto.689c57f945b9a760a8f5.jpg",
-    "static/media/laboratorio2.jpg": "/static/media/laboratorio2.1d2684280813982816fa.jpg",
-    "static/media/logo.png": "/static/media/logo.612925f696abc02c0cc2.png",
-    "index.html": "/index.html",
-    "main.1eb2d71f.css.map": "/static/css/main.1eb2d71f.css.map",
-    "main.c53234c3.js.map": "/static/js/main.c53234c3.js.map"
+    "main.css": "./static/css/main.1eb2d71f.css",
+    "main.js": "./static/js/main.92a50426.js",
+    "static/media/Carousel3.jpg": "./static/media/Carousel3.af1e6a941c0a8bd3e71c.jpg",
+    "static/media/Carousel2.jpg": "./static/media/Carousel2.4f7c6a59663b2ebd473d.jpg",
+    "static/media/Carousel1.jpg": "./static/media/Carousel1.801ec1f2c91c2eff9d54.jpg",
+    "static/media/Agricola.pdf": "./static/media/Agricola.9af65391ee00c14aff07.pdf",
+    "static/media/products.jpg": "./static/media/products.40d5e9edfe3dbaaaa170.jpg",
+    "static/media/InsutrialHogar.pdf": "./static/media/InsutrialHogar.6069cb5a4b2fbff91938.pdf",
+    "static/media/Carousel3movil.jpg": "./static/media/Carousel3movil.419c2ae011009e4677ba.jpg",
+    "static/media/Carousel1movil.jpg": "./static/media/Carousel1movil.d0a7c96d9abedf56fd78.jpg",
+    "static/media/Carousel2movil.jpg": "./static/media/Carousel2movil.4ba1188b852bc8352e4c.jpg",
+    "static/media/Veterinaria.pdf": "./static/media/Veterinaria.8d25ba8d660e8b52409a.pdf",
+    "static/media/map.jpg": "./static/media/map.53e85aac9bafcfd061ee.jpg",
+    "static/media/forest.jpg": "./static/media/forest.225cf908bccbe769c3fa.jpg",
+    "static/media/coto.jpg": "./static/media/coto.689c57f945b9a760a8f5.jpg",
+    "static/media/laboratorio2.jpg": "./static/media/laboratorio2.1d2684280813982816fa.jpg",
+    "static/media/logo.png": "./static/media/logo.612925f696abc02c0cc2.png",
+    "index.html": "./index.html",
+    "main.1eb2d71f.css.map": "./static/css/main.1eb2d71f.css.map",
+    "main.92a50426.js.map": "./static/js/main.92a50426.js.map"
   },
   "entrypoints": [
     "static/css/main.1eb2d71f.css",
-    "static/js/main.c53234c3.js"
+    "static/js/main.92a50426.js"
   ]
 }
