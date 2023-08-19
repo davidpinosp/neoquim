@@ -2,7 +2,7 @@ import "./App.css";
 import Navbar from "./components/Navbar.js";
 import Footer from "./components/Footer";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   useLocation,
