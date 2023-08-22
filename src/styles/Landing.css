@@ -162,6 +162,7 @@ body {
 .about-us {
   padding: 40px 20px;
   display: flex;
+  min-height: 95vh;
 }
 .about-us-text {
   line-height: 1.5;
@@ -303,7 +304,6 @@ body {
   }
 
   .about-us {
-    flex-direction: column;
     padding-top: 20px;
     align-items: center;
     z-index: 10;

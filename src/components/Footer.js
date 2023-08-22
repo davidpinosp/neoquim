@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import {
   Phone,
   Room,
@@ -30,10 +31,16 @@ const Footer = () => {
           </div>
 
           <div>
-            <Facebook style={{ fontSize: 25 }} />
-            <Twitter style={{ fontSize: 25 }} />
-            <LinkedIn style={{ fontSize: 25 }} />
-            <Instagram style={{ fontSize: 25 }} />
+            <a href="https://www.facebook.com/neoquim/">
+              <Facebook style={{ fontSize: 25 }} />
+            </a>
+
+            <a href="https://www.linkedin.com/company/neoquim-ec/">
+              <LinkedIn style={{ fontSize: 25 }} />
+            </a>
+            <a href="https://www.instagram.com/neoquim_ec/?max_id=1690753611867669133">
+              <Instagram style={{ fontSize: 25 }} />
+            </a>
           </div>
         </div>
 

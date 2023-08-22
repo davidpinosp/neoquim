@@ -30,7 +30,7 @@ const Contactanos = () => {
       <div className="contact-form">
         <form onSubmit={handleSubmit}>
           <div className="form-group">
-            <label htmlFor="name">Name:</label>
+            <label htmlFor="name">Nombre:</label>
             <input
               type="text"
               id="name"
@@ -41,18 +41,7 @@ const Contactanos = () => {
             />
           </div>
           <div className="form-group">
-            <label htmlFor="email">Email:</label>
-            <input
-              type="email"
-              id="email"
-              name="email"
-              value={formData.email}
-              onChange={handleChange}
-              required
-            />
-          </div>
-          <div className="form-group">
-            <label htmlFor="subject">Subject:</label>
+            <label htmlFor="subject">Empresa:</label>
             <input
               type="text"
               id="subject"
@@ -63,7 +52,19 @@ const Contactanos = () => {
             />
           </div>
           <div className="form-group">
-            <label htmlFor="message">Message:</label>
+            <label htmlFor="email">Correo Electronico:</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              value={formData.email}
+              onChange={handleChange}
+              required
+            />
+          </div>
+
+          <div className="form-group">
+            <label htmlFor="message">Mensaje:</label>
             <textarea
               id="message"
               name="message"
