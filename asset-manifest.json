@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.8741e15c.css",
-    "main.js": "./static/js/main.258f8bfb.js",
+    "main.css": "./static/css/main.4702b37b.css",
+    "main.js": "./static/js/main.dcd7e76b.js",
     "static/media/Carousel3.jpg": "./static/media/Carousel3.af1e6a941c0a8bd3e71c.jpg",
     "static/media/Carousel2.jpg": "./static/media/Carousel2.4f7c6a59663b2ebd473d.jpg",
     "static/media/Carousel1.jpg": "./static/media/Carousel1.801ec1f2c91c2eff9d54.jpg",
@@ -15,14 +15,15 @@
     "static/media/map.jpg": "./static/media/map.53e85aac9bafcfd061ee.jpg",
     "static/media/forest.jpg": "./static/media/forest.225cf908bccbe769c3fa.jpg",
     "static/media/coto.jpg": "./static/media/coto.689c57f945b9a760a8f5.jpg",
+    "static/media/provedor.jpeg": "./static/media/provedor.92ddac81bb2053eb8665.jpeg",
     "static/media/laboratorio2.jpg": "./static/media/laboratorio2.1d2684280813982816fa.jpg",
     "static/media/logo.png": "./static/media/logo.612925f696abc02c0cc2.png",
     "index.html": "./index.html",
-    "main.8741e15c.css.map": "./static/css/main.8741e15c.css.map",
-    "main.258f8bfb.js.map": "./static/js/main.258f8bfb.js.map"
+    "main.4702b37b.css.map": "./static/css/main.4702b37b.css.map",
+    "main.dcd7e76b.js.map": "./static/js/main.dcd7e76b.js.map"
   },
   "entrypoints": [
-    "static/css/main.8741e15c.css",
-    "static/js/main.258f8bfb.js"
+    "static/css/main.4702b37b.css",
+    "static/js/main.dcd7e76b.js"
   ]
 }
