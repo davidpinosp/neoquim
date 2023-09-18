@@ -1,9 +1,10 @@
 import React from "react";
 import map from "../assets/map.jpg";
+import provedor from "../assets/provedor.jpeg";
 import "../styles/Landing.css";
 function Aboutus() {
   return (
-    <div>
+    <div className="fillwindow">
       <div className="about-us">
         <div>
           <div className="about-us-text">
@@ -28,6 +29,16 @@ function Aboutus() {
         </div>
 
         <img src={map} className="map-image" alt="map picture" />
+      </div>
+      <div className="about-us-text provedor-text">
+        <h2 style={{ textAlign: "center" }}>Distribuidor Exclusivo </h2>
+        <div className="provedor-center">
+          <img
+            src={provedor}
+            className="provedor-image"
+            alt="provedor picture"
+          />
+        </div>
       </div>
     </div>
   );

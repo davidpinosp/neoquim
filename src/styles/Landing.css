@@ -162,12 +162,28 @@ body {
 .about-us {
   padding: 40px 20px;
   display: flex;
+  /* min-height: 95vh; */
+}
+
+.fillwindow {
   min-height: 95vh;
+}
+
+.provedor-image {
+  padding: 20px;
+  height: 300px;
 }
 .about-us-text {
   line-height: 1.5;
   font-size: 1.3rem;
   padding: 20px 75px 20px 20px;
+}
+.provedor-text {
+  padding: 10px 40px 40px 40px;
+}
+.provedor-center {
+  display: flex;
+  justify-content: center;
 }
 
 .map-image {
@@ -330,6 +346,11 @@ body {
   }
 
   .map-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .provedor-image {
     width: 100%;
     height: auto;
   }
