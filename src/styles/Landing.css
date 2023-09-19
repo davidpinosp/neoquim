@@ -344,6 +344,9 @@ body {
   .about-us-text {
     padding-right: 20px;
   }
+  .provedor-text {
+    padding-right: 40px;
+  }
 
   .map-image {
     width: 100%;
@@ -406,5 +409,15 @@ body {
   }
   .httext-box-top-title {
     font-size: 2rem;
+  }
+}
+
+@media (max-width: 405px) {
+  .hhtext-box-text-sub {
+    width: 85%;
+    text-align: center;
+  }
+  .hhtext-box.padding-wrapper {
+    padding: 0px 15px;
   }
 }

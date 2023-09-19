@@ -36,7 +36,7 @@ function Landing() {
         <div className="hhtext-box-text">
           <div className="hhtext-box-text-sub2">
             <span className="text-block-content-title">
-              <h2>Compromiso Ambiental</h2>
+              <h2 style={{ paddingBottom: "5px" }}>Compromiso Ambiental</h2>
             </span>
             Fabricamos productos de acción efectiva pensando en el medio
             ambiente y que no afecten a la salud del consumidor. Continuamente
