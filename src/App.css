@@ -6,3 +6,29 @@
 body {
   font-family: sans-serif;
 }
+/* for desktop */
+
+/* for mobile */
+@media screen and (max-width: 850px) {
+  .whatsapp-icon {
+    margin-top: 10px;
+  }
+
+  .whatsapp_float {
+    position: fixed;
+
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    right: 15px;
+    font-size: 40px;
+  }
+}

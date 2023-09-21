@@ -12,7 +12,7 @@ function ProductBoxes() {
         <div className="product-box">
           <AgricultureIcon />
 
-          <h2>Agricola</h2>
+          <h2>Agrícola</h2>
         </div>
       </Link>
       <Link to="/industrial">
