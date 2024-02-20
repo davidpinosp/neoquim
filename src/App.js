@@ -31,6 +31,9 @@ function App() {
       <Router>
         <ScrollToTop />
         <Navbar />
+        <div style={{maxWidth:"1500px", margin:"0 auto"}}>
+    
+
         <Routes>
           <Route path="/" element={<Landing />} />
           <Route path="/aboutus" element={<Aboutus />} />
@@ -48,6 +51,10 @@ function App() {
         >
           <i class="fa fa-whatsapp whatsapp-icon"></i>
         </a>
+
+        </div>
+
+     
         <Footer />
       </Router>
     </div>

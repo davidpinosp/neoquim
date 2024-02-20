@@ -23,6 +23,7 @@ const Contactanos = () => {
     name: "",
     email: "",
     subject: "",
+    numero: "",
     message: "",
   });
 
@@ -44,6 +45,8 @@ const Contactanos = () => {
       text:
         "Nombre: " +
         formData.name +
+        "\n\nNumero: " +
+        formData.numero +
         "\n\nEmail: " +
         formData.email +
         "\n\nMensaje : " +
@@ -104,6 +107,18 @@ const Contactanos = () => {
               required
             />
           </div>
+
+          <div className="form-group">
+            <label htmlFor="numero">Teléfono:</label>
+            <input
+              type="text"
+              id="numero"
+              name="numero"
+              value={formData.numero}
+              onChange={handleChange}
+              required
+            />
+          </div>
           <div className="form-group">
             <label htmlFor="email">Correo Electronico:</label>
             <input
@@ -126,6 +141,8 @@ const Contactanos = () => {
               required
             />
           </div>
+
+         
 
           <div className="form-button ">
             {buttonActive && (

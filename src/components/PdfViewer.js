@@ -6,7 +6,7 @@ import { Button } from "@mui/material";
 function PdfViewer({ Location, Name, Text, Image1 }) {
   const [loading, setLoading] = useState(false);
   const [pdfOpen, setPdfOpen] = useState(false);
-
+  const fakeText = "asdasd \n \n sadasdasd";
   const handleLoading = () => {
     setLoading(true);
   };
@@ -16,7 +16,7 @@ function PdfViewer({ Location, Name, Text, Image1 }) {
       <div className="main-subtitle">
         <h1>{"Linea " + Name} </h1>
       </div>
-      <div className="main-text">{Text}</div>
+      <div className="main-text">{Text}  </div>
 
       <div className="">
         <div className="hhtext-box-button button-container">
